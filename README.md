@@ -6,7 +6,9 @@ This repo can be cloned and used as a tutorial or even stripped and used as a st
 
 ## Development Considerations
 
-Coming soon.
+Kept users and password reset tables for future expansion.
+
+More coming soon.
 
 ## Security Considerations
 
